@@ -1,0 +1,38 @@
+{
+   "name": "new-typeorm-project",
+   "version": "0.0.1",
+   "description": "Awesome project developed with TypeORM.",
+   "devDependencies": {
+      "@types/bcrypt": "^3.0.0",
+      "@types/body-parser": "^1.17.1",
+      "@types/cors": "^2.8.6",
+      "@types/express": "^4.17.1",
+      "@types/graphql": "^14.5.0",
+      "@types/jsonwebtoken": "^8.3.5",
+      "@types/lodash": "^4.14.144",
+      "@types/node": "^8.10.58",
+      "nodemon": "^1.19.4",
+      "ts-node": "^3.3.0",
+      "typescript": "^3.3.3333"
+   },
+   "dependencies": {
+      "apollo-server-express": "^2.9.7",
+      "axios": "^0.19.0",
+      "bcrypt": "^3.0.6",
+      "body-parser": "^1.19.0",
+      "cors": "^2.8.5",
+      "dotenv": "^8.2.0",
+      "express": "^4.17.1",
+      "firebase-admin": "^8.8.0",
+      "jsonwebtoken": "^8.5.1",
+      "lodash": "^4.17.15",
+      "pg": "^7.12.1",
+      "reflect-metadata": "^0.1.10",
+      "type-graphql": "^0.17.5",
+      "typeorm": "0.2.20",
+      "winston": "^3.2.1"
+   },
+   "scripts": {
+      "start": "nodemon"
+   }
+}
